@@ -1,7 +1,7 @@
-/*
+
  * Functions for working with EEPROM via I2C
  * Uses the HAL library for reading and writing data
- */
+
 
 
 
